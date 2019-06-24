@@ -1,0 +1,158 @@
+body {
+	font-family: 'Slabo 27px' serif;
+}
+
+h1 {
+	border-bottom: 1 px solid rgba(0, 0, 0, .1);
+	padding-bottom: 10px;
+}
+
+#Maroon {
+
+}
+
+.separator {
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+
+.box-100 {
+	color: #FFFFFF;
+	background: #96281B;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+
+}
+
+.box-200 {
+	color: #FFFFFF;
+	background: Blue;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+}
+
+.box-201 {
+	color: white;
+	background: green;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+}
+
+.box-202 {
+	color: #FFFFFF;
+	background: #96281B;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+}
+
+
+#maroon-box {
+	color: #FFFFFF;
+	background: #96281B;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+
+}
+
+#dark-blue-box {
+	color: #FFFFFF;
+	background: #4B77BE;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+}
+
+#salem-box {
+	color: #FFFFFF;
+	background: #1E824C;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+}
+
+.red-background {
+	color: #FFFFFF;
+	background: #C0392B;
+}
+
+.blue-background {
+	color: #FFFFFF;
+	background: #446CB3;
+}
+
+.green-background {
+	color: #FFFFFF;
+	background: #26A65B;
+}
+
+.box-list{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+	background: #353535;
+	color: #FFFFFF;
+}
+
+.box-list2{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+	background: #353535;
+	color: #FFFFFF;
+}
+
+#gold-box {
+	border-radius: 20px;
+	color: #353535;
+	background: #F9BF3B;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+}
+
